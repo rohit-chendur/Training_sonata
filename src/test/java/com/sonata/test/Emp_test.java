@@ -18,11 +18,11 @@ public class Emp_test {
 	}
 	
 	
-	/*@Test
+	//@Test
 	public void WithdrawTest() {
 		e1.setEmpSal(20000);
-		Assertions.assertEquals(1000.0, e2.apprSal(e1));
-	}*/
+		assertEquals(1000.0, e2.apprSal(e1));
+	}
 	
 }
 
