@@ -1,3 +1,4 @@
+/*
 package com.sonata.test;
 
 import org.junit.Test;
@@ -28,4 +29,4 @@ public class Emp_test {
 
 
 
-//e2.yearlySal(e1.setEmpSal(10))
+//e2.yearlySal(e1.setEmpSal(10))*/
