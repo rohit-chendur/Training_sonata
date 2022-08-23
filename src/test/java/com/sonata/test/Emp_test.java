@@ -1,7 +1,7 @@
 
 package com.sonata.test;
 
-import org.junit.jupiter.api.Assertions;
+import static org.junit.jupiter.api.Assertions.*;
 
 import com.sonata.impl.Empl_Impl;
 import com.sonata.model.Employee;
@@ -14,7 +14,7 @@ public class Emp_test {
 	//@Test
 	public void ySalTest() {
 		e1.setEmpSal(20000);
-		Assertions.assertEquals(240000.0, e2.yearlySal(e1));
+		assertEquals(240000.0, e2.yearlySal(e1));
 	}
 	
 	
