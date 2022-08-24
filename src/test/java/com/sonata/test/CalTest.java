@@ -1,17 +1,12 @@
-package com.sonata.daythree;
-
+package com.sonata.test;
+/*
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
-
 import com.sonata.dayfour.Calculator;
 
-@SpringBootTest
-class TrainingSonataApplicationTests {
-	
-Calculator c1 = new Calculator();
+public class CalTest {
+	Calculator c1 = new Calculator();
 	
 	//@Test
 	public void addTest() {
@@ -21,8 +16,7 @@ Calculator c1 = new Calculator();
 	public void divTest() {
 		assertThrows(ArithmeticException.class,()->c1.divide(1,0),"it is an error");
 	}
-	@Test
-	void contextLoads() {
-	}
-
-}
+	
+	
+	
+}*/
