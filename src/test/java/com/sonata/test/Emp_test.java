@@ -3,7 +3,7 @@ package com.sonata.test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 import com.sonata.impl.Empl_Impl;
 import com.sonata.model.Employee;
