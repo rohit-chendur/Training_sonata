@@ -1,6 +1,9 @@
-package com.sonata.MyService;
+package com.sonata.MyServiceTest;
 
 import java.util.List;
+
+import com.sonata.MyService.MyServiceIntf;
+
 import java.util.Arrays;
 
 public class MyServiceStub implements MyServiceIntf{

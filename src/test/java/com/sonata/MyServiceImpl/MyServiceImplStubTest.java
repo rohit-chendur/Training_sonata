@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.Assert.assertEquals;
 
 import com.sonata.MyService.MyServiceIntf;
-import com.sonata.MyService.MyServiceStub;
+import com.sonata.MyServiceTest.MyServiceStub;
 
 public class MyServiceImplStubTest {
 	
